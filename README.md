@@ -107,6 +107,12 @@ version: 16.0.0（仓库中已上传）
   ```shell
   export PATH=$PATH:~/gcc-arm-none-eabi-7-2018-q2-update/bin
   ```
+
+  终端输入
+  ```shell
+  arm-none-eabi-gcc --version
+  ```
+  获取正确的gcc版本信息则编译环境安装成功
   
 
   * python
