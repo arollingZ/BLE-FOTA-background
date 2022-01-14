@@ -103,7 +103,7 @@ version: 16.0.0（仓库中已上传）
 
   * gcc
   
-  工具包已经上传至仓库，通过终端配置环境变量
+  工具包已经上传至仓库，进入scripts工作目录，通过终端配置环境变量
   ```shell
   export PATH=$PATH:../../../../gcc-arm-none-eabi-7-2018-q2-update/bin
   ```
